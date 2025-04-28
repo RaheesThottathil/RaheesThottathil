@@ -1,29 +1,41 @@
-- 👋 Hello, I’m @RaheesThottathil#
+# 👋 Hello, I’m @RaheesThottathil
 
-I'm a passionate **developer** who loves building **cool projects** and learning new tech every day.  
-Currently diving deep into **python**,**Java**, **Web Development**! 🌟
+I am a passionate developer with a focus on building scalable and efficient software solutions. I thrive on learning new technologies and constantly improving my skills. Currently, I am diving deep into Python, Java, and Web Development.
+
+---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on: Personal Projects 
-- 🌱 I’m currently learning: Advance python and java
-- 👯 I’m looking to collaborate on: Full stack development 
-- ⚡ Fun fact: I can turn coffee ☕ into code faster than light!
+
+- 🔭 **Currently working on:** Personal projects to enhance my full-stack development skills.
+- 🌱 **Currently learning:** Advanced Python and Java for backend and improving web development expertise.
+- 👯 **Looking to collaborate on:** Full-stack development projects, open-source contributions, and tech-driven innovation.
+- ⚡ **Fun fact:** I can turn coffee ☕ into code faster than light!
+
+---
 
 ## 🛠️ Tech Stack
-**Language**
-- Python 🐍
-- HTML 🌐
-- CSS 🎨
-- Java ☕
-- C Programming 💻
-- **Tools**
--  Git, GitHub, VS Code
+
+### Languages:
+- **Python** 🐍
+- **Java** ☕
+- **HTML** 🌐
+- **CSS** 🎨
+- **C Programming** 💻
+
+### Tools & Technologies:
+- **Version Control:** Git, GitHub
+- **IDE:** Visual Studio Code (VS Code)
+- **Web Development:** HTML, CSS, JavaScript
+
+---
 
 ## 📈 GitHub Stats
-[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+[![Rahees's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaheesThottathil&show_icons=true&theme=github)](https://github.com/RaheesThottathil)
+
+---
 
 ## 🌟 Let's Connect!
-- [LinkedIn] (www.linkedin.com/in/rahees-thottathil-6559b3352)
-- [Mail] ( raheesrazi96@gmail.com )
 
-
+- **LinkedIn:** [Rahees Thottathil](https://www.linkedin.com/in/rahees-thottathil-6559b3352)
+- **Email:** [raheesrazi96@gmail.com](mailto:raheesrazi96@gmail.com)
