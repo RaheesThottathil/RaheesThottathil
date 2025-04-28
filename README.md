@@ -20,10 +20,10 @@ Currently diving deep into **python**,**Java**, **Web Development**! 🌟
 -  Git, GitHub, VS Code
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 🌟 Let's Connect!
-[![LinkedIn] (www.linkedin.com/in/rahees-thottathil-6559b3352)
-[![Mail] ( raheesrazi96@gmail.com )
+[LinkedIn] (www.linkedin.com/in/rahees-thottathil-6559b3352)
+[Mail] ( raheesrazi96@gmail.com )
 
 
